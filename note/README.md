@@ -1,0 +1,1 @@
+The note directory is used to store pictures displayed in my personal notes. 
